@@ -7,6 +7,7 @@ I'm a junior front-end developer.
  ● HTML                      ● Bootstrap              ● React
  ● CSS                       ● Gulp                   ● Redux
  ● SASS/SCSS                 ● Webpack                ● Node.js (basics)
+ ● JavaScript                ● Git                    ● SQL
 ```
 
 
