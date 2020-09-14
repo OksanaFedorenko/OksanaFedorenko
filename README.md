@@ -1,4 +1,7 @@
-### Hi there 👋
+ Hi there! My name is Oksana Fedorenko.
+
+I'm a junior front-end developer. 
+
 
 <!--
 **OksanaFedorenko/OksanaFedorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
