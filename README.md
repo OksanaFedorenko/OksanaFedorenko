@@ -3,11 +3,11 @@
 I'm a junior front-end developer. 
 
 #### My skills
-
-:black_small_square: - HTML                      - Bootstrap              - React
- - CSS                       - Gulp                   - Redux
- - SASS/SCSS                 - Webpack                - Node.js (basics)
-
+```
+ ● HTML                      - Bootstrap              - React
+ ● CSS                       - Gulp                   - Redux
+ ● SASS/SCSS                 - Webpack                - Node.js (basics)
+```
 
 
 <!--
