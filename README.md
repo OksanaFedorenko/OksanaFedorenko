@@ -1,4 +1,4 @@
-## Hi there! My name is Oksana Fedorenko.
+### Hi there! My name is Oksana Fedorenko.
 
 I'm a junior front-end developer. 
 
