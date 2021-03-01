@@ -10,18 +10,30 @@ I'm a junior front-end developer. Now I'm open for new opportunities and looking
  ● JavaScript                ● Git                    ● SQL
 ```
 
+## Latest works
+ [Landing-page for real estate agency (scss, bootstrap, js)](https://github.com/OksanaFedorenko/real-estate)
 
-<!--
-**OksanaFedorenko/OksanaFedorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Landing-page for web-designer (scss, Bootstrap, js))](https://github.com/OksanaFedorenko/designer-portfolio)
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Course "Advanced CSS and Sass: Flexbox, Grid, Animations and More" on Udemy.com
+
+Course "React + Redux - professional development" on Udemy.com
+
+**Beetroot Academy**  
+Frontend courses.  Graduated in 2018.
+
+**Zaporozhye national university**  
+Graduated  in 2015. Bachelor's degree in Accounting and Auditing
+
+
+## Other skills
+
+* English (pre-Intermediate)
+* Spanish (beginner)
+* Communicative
+* Attantive to details
+* High motivated
+
+
